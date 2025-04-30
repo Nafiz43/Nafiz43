@@ -1,8 +1,13 @@
 <h1 align="left">Hi 👋, I'm Nafiz</h1>
-<h5 align="left" line-height="1.5">I am a Computer Science PhD student at UC Davis, working in the DECAL Lab under the mentorship of <a href="https://www.cs.ucdavis.edu/~filkov/" target="_blank">Professor Vladimir Filkov</a>. My research interests span data science, health informatics, and open-source software sustainability, with expertise in fine-tuning large language models, developing retrieval-augmented generation frameworks, and building AI/ML pipelines for specialized tasks.
-<br/>
-Feel free to connect with me to discuss crazy ideas!
-</h5>
+<p align="left" style="line-height: 2;">
+  I am a Computer Science PhD student at UC Davis, working in the DECAL Lab under the mentorship of 
+  <a href="https://www.cs.ucdavis.edu/~filkov/" target="_blank">Professor Vladimir Filkov</a>. 
+  My research interests span data science, health informatics, and open-source software sustainability, 
+  with expertise in fine-tuning large language models, developing retrieval-augmented generation frameworks, 
+  and building AI/ML pipelines for specialized tasks.
+  <br/>
+  Feel free to connect with me to discuss crazy ideas!
+</p>
 
 
 🔭 Currently working on: LLM tools for ameliorating Open Source Softwares<br>
