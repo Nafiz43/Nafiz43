@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 Currently working on: LLM tools for ameliorating Open Source Softwares<br>👯 Looking to collaborate on: AI systems for software engineering or healthcare workflows.<br>🤝 Need help with: Optimizing LLM inference and scaling RAG pipelines.<br>🌱 Learning: Multi-modal RAG, OSS sustainability metrics, and efficient fine-tuning (QLoRA, PEFT).<br>💬 Ask me about: Designing RAG pipelines, and building practical AI tools for real-world use.<br>⚡ Fun fact: I love watching sci-fi — Black Mirror is a favorite.
+<h1 align="left">Hi 👋, I'm Nafiz</h1>
+<h5 align="left" line-height="1.5">I am a Computer Science PhD student at UC Davis, working in the DECAL Lab under the mentorship of Professor Vladimir Filkov (https://www.linkedin.com/in/vladimir-filkov/). My research interests span data science, health informatics, and open-source software sustainability, with expertise in fine-tuning large language models, developing retrieval-augmented generation frameworks, and building AI/ML pipelines for specialized tasks.
+<br/>
+Feel free to connect with me to discuss crazy ideas!
+</h5>
+
+
+🔭 Currently working on: LLM tools for ameliorating Open Source Softwares<br>
+🌱 Learning: Multi-modal RAG, OSS sustainability metrics, and efficient fine-tuning (QLoRA, PEFT).<br>
+💬 Ask me about: Designing RAG pipelines, and building practical AI tools for real-world use.<br>⚡ Fun fact: I love watching sci-fi — Black Mirror is a favorite.
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M9TkFYTXcNcXWPl8dQDZFTrTzz31qBrl/view?usp=sharing)
+👨‍💻 Veiw my Portfolio [Portfolio](https://nafiz43.github.io/portfolio/)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=nafiz43&style=for-the-badge) 
 
 
 ## 🌐 Socials:
@@ -16,6 +28,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=nafiz43&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nafiz43&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=nafiz43&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
