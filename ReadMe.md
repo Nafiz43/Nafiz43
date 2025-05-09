@@ -10,12 +10,11 @@
 </p>
 
 
-🔭 Currently working on: LLM tools for ameliorating Open Source Softwares<br>
+🔭 Currently working on: LLM tools for ameliorating Open Source Software <br>
 🌱 Learning: Multi-modal RAG, OSS sustainability metrics, and efficient fine-tuning (QLoRA, PEFT)<br>
 💬 Ask me about: Designing RAG pipelines, and building practical AI tools for real-world use<br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M9TkFYTXcNcXWPl8dQDZFTrTzz31qBrl/view?usp=sharing)<br>
 👨‍💻 Veiw my [Portfolio](https://nafiz43.github.io/portfolio/)<br>
-⚡ Fun fact: I love watching sci-fi — Black Mirror is my favorite.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nafiz43&style=for-the-badge) 
 
