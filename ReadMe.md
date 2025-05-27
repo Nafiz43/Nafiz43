@@ -1,22 +1,3 @@
-<h1 id="typing" align="left"></h1>
-
-<script>
-  const text = "Hi 👋, I'm Nafiz";
-  const typingElement = document.getElementById("typing");
-  let i = 0;
-
-  function typeWriter() {
-    if (i < text.length) {
-      typingElement.innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 100); // adjust speed here (in ms)
-    }
-  }
-
-  typeWriter();
-</script>
-
-
 <h1 align="left">Hi 👋, I'm Nafiz</h1>
 <p align="left" style="line-height: 2;">
   I am a Computer Science PhD student at UC Davis, working in the DECAL Lab under the mentorship of 
