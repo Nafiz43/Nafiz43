@@ -10,7 +10,7 @@
 </p>
 
 
-🔭 Currently working on: LLM tools for ameliorating Open Source Software <br>
+🔭 Currently working on: Developing multi-agentic workflows for Software Engineering Tasks <br>
 🌱 Learning: Multi-modal RAG, OSS sustainability metrics, and efficient fine-tuning (QLoRA, PEFT)<br>
 💬 Ask me about: Designing RAG pipelines, and building practical AI tools for real-world use<br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M9TkFYTXcNcXWPl8dQDZFTrTzz31qBrl/view?usp=sharing)<br>
