@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nafiz</h1>
 <p align="left" style="line-height: 2;">
-  I am a Computer Science PhD student at UC Davis, working in the DECAL Lab under the mentorship of 
+  I am a Computer Science PhD candidate at UC Davis, working in the DECAL Lab under the mentorship of 
   <a href="https://www.cs.ucdavis.edu/~filkov/" target="_blank">Professor Vladimir Filkov</a>. 
   My research interests span data science, health informatics, and open-source software sustainability, 
   with expertise in fine-tuning large language models, developing retrieval-augmented generation frameworks, 
